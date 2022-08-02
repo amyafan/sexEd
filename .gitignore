@@ -1,0 +1,9 @@
+*.vim
+.env
+.Renviron
+.DS_Store
+
+scratch/
+!scratch/.gitkeep
+
+data/source/sadc_2019_state_*.dat

@@ -1,0 +1,102 @@
+"Notes"	"State of Residence"	"State of Residence Code"	"Mother's Hispanic Origin"	"Mother's Hispanic Origin Code"	Births	Female Population	Fertility Rate
+	"New Hampshire"	"33"	"Hispanic or Latino"	"2135-2"	30	2362	12.70
+	"Alaska"	"02"	"Hispanic or Latino"	"2135-2"	29	1837	15.79
+	"California"	"06"	"Hispanic or Latino"	"2135-2"	10093	632768	15.95
+	"Maine"	"23"	"Hispanic or Latino"	"2135-2"	19	1090	17.43
+	"Oregon"	"41"	"Hispanic or Latino"	"2135-2"	461	26209	17.59
+	"Florida"	"12"	"Hispanic or Latino"	"2135-2"	3298	185273	17.80
+	"Illinois"	"17"	"Hispanic or Latino"	"2135-2"	1765	98914	17.84
+	"New York"	"36"	"Hispanic or Latino"	"2135-2"	2320	129218	17.95
+	"Michigan"	"26"	"Hispanic or Latino"	"2135-2"	514	25943	19.81
+	"Nevada"	"32"	"Hispanic or Latino"	"2135-2"	776	38402	20.21
+	"Connecticut"	"09"	"Hispanic or Latino"	"2135-2"	523	25309	20.66
+	"West Virginia"	"54"	"Hispanic or Latino"	"2135-2"	26	1244	20.90
+	"Massachusetts"	"25"	"Hispanic or Latino"	"2135-2"	773	35892	21.54
+	"New Jersey"	"34"	"Hispanic or Latino"	"2135-2"	1469	67997	21.60
+	"Hawaii"	"15"	"Hispanic or Latino"	"2135-2"	121	5442	22.23
+	"Washington"	"53"	"Hispanic or Latino"	"2135-2"	1048	45899	22.83
+	"Wisconsin"	"55"	"Hispanic or Latino"	"2135-2"	495	20678	23.94
+	"Arizona"	"04"	"Hispanic or Latino"	"2135-2"	2503	103117	24.27
+	"Colorado"	"08"	"Hispanic or Latino"	"2135-2"	1346	55178	24.39
+	"New Mexico"	"35"	"Hispanic or Latino"	"2135-2"	1009	41301	24.43
+	"Montana"	"30"	"Hispanic or Latino"	"2135-2"	45	1829	24.60
+	"Minnesota"	"27"	"Hispanic or Latino"	"2135-2"	387	15615	24.78
+	"Rhode Island"	"44"	"Hispanic or Latino"	"2135-2"	191	7258	26.32
+	"Wyoming"	"56"	"Hispanic or Latino"	"2135-2"	67	2520	26.59
+	"Idaho"	"16"	"Hispanic or Latino"	"2135-2"	305	11297	27.00
+	"Utah"	"49"	"Hispanic or Latino"	"2135-2"	604	21933	27.54
+	"Missouri"	"29"	"Hispanic or Latino"	"2135-2"	353	12553	28.12
+	"Virginia"	"51"	"Hispanic or Latino"	"2135-2"	962	33990	28.30
+	"North Dakota"	"38"	"Hispanic or Latino"	"2135-2"	36	1236	29.13
+	"Indiana"	"18"	"Hispanic or Latino"	"2135-2"	727	24672	29.47
+	"Georgia"	"13"	"Hispanic or Latino"	"2135-2"	1462	48652	30.05
+	"Texas"	"48"	"Hispanic or Latino"	"2135-2"	15088	498100	30.29
+	"Ohio"	"39"	"Hispanic or Latino"	"2135-2"	662	21814	30.35
+	"North Carolina"	"37"	"Hispanic or Latino"	"2135-2"	1557	49375	31.53
+	"District of Columbia"	"11"	"Hispanic or Latino"	"2135-2"	73	2306	31.66
+	"Kansas"	"20"	"Hispanic or Latino"	"2135-2"	552	17291	31.92
+	"Delaware"	"10"	"Hispanic or Latino"	"2135-2"	140	4344	32.23
+	"Pennsylvania"	"42"	"Hispanic or Latino"	"2135-2"	1418	43811	32.37
+	"Arkansas"	"05"	"Hispanic or Latino"	"2135-2"	366	11280	32.45
+	"Iowa"	"19"	"Hispanic or Latino"	"2135-2"	336	9887	33.98
+	"Oklahoma"	"40"	"Hispanic or Latino"	"2135-2"	725	21104	34.35
+	"Maryland"	"24"	"Hispanic or Latino"	"2135-2"	877	25038	35.03
+	"Nebraska"	"31"	"Hispanic or Latino"	"2135-2"	370	10551	35.07
+	"South Carolina"	"45"	"Hispanic or Latino"	"2135-2"	505	13353	37.82
+	"Kentucky"	"21"	"Hispanic or Latino"	"2135-2"	298	7599	39.22
+	"Mississippi"	"28"	"Hispanic or Latino"	"2135-2"	158	4004	39.46
+	"South Dakota"	"46"	"Hispanic or Latino"	"2135-2"	66	1566	42.15
+	"Tennessee"	"47"	"Hispanic or Latino"	"2135-2"	822	17891	45.94
+	"Louisiana"	"22"	"Hispanic or Latino"	"2135-2"	403	8147	49.47
+	"Alabama"	"01"	"Hispanic or Latino"	"2135-2"	570	9955	57.26
+"---"
+"Dataset: Natality, 2016-2020 expanded"
+"Query Parameters:"
+"Age of Mother 9: 15-19 years"
+"Mother's Hispanic Origin: Hispanic or Latino"
+"Mother's Single Race 6: American Indian or Alaska Native; Asian; Black or African American; Native Hawaiian or Other Pacific"
+"Islander; White; More than one race; Unknown or Not Stated"
+"Year: 2020"
+"Group By: State of Residence; Mother's Hispanic Origin"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/Natality-expanded.html for more information."
+"---"
+"Query Date: Jul 18, 2022 1:31:48 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2016-2020, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-expanded-current.html on Jul 18, 2022 1:31:48 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Births are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. 'Suppressed' appears when the data do not meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/Natality-expanded.html#Assurance of Confidentiality."
+"2. Each birth record represents one liveborn infant."
+"3. Fertility rates are calculated as the number of births divided by the number of females age 15 - 44 years old in the given"
+"year(s). When the numerator is sub-set by mother's age, mother's race, mother's hispanicity, location, or year of birth, then"
+"the same sub-set for age, race, hispanicity, location and year applies to the denominator population. However, if you sub-set"
+"mother's age selecting some years not in the 15 - 44 range, those years of mother's age ouside this range will not be included"
+"in the denominator population. If you sub-set mother's age selecting only years outside the 15 - 44 range, the denominator"
+"population returned will be zero and flagged ""Not Available""."
+"4. Rates returned for Hispanicity in combination with Single Race are calculated differently here than in other natality"
+"published reports. More information: http://wonder.cdc.gov/wonder/help/Natality-expanded.html#About-Rates."
+"5. Birth rates and fertility rates are calculated using the following populations: The populations for year 2019 are from the"
+"postcensal single-race series of July 1st estimates of the resident population, released by Census Bureau on June 25, 2020; and"
+"the postcensal bridged-race series of July 1st estimates of the resident population, released by NCHS on July 9, 2020. The"
+"populations for year 2018 are from the postcensal single-race series of July 1st estimates of the resident population, released"
+"by Census Bureau on June 21, 2019; and the postcensal bridged-race series of July 1st estimates of the resident population,"
+"released by NCHS on June 27, 2019. The populations for year 2017 are from the postcensal single-race series of July 1st"
+"estimates of the resident population, released by Census Bureau on June 21, 2018; and the postcensal bridged-race series of July"
+"1st estimates of the resident population, released by NCHS on June 27, 2018. The populations for year 2016 are from the"
+"postcensal single-race series of July 1st estimates of the resident population, released by Census Bureau on June 22, 2017; and"
+"the postcensal bridged-race series of July 1st estimates of the resident population, released by NCHS on June 26, 2017. More"
+"information: http://wonder.cdc.gov/wonder/help/Natality-expanded.html#Denominator-Population-Sources."
